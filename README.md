@@ -1,4 +1,4 @@
-## C++ for compeitive programming 
+## C++ for competitive programming 
 ### Far Manager IDE essential commands 
   - F12 : page swap; you can go editor option or compiler option at the same time
   - Cltr+q : chage to view code
@@ -8,14 +8,13 @@
   - shift+ins : paste
   - f7 : Make Folder
 
-jokon test.cpp click korbo tokon automatic text.exe file execute jabe
-	- tarpor test.exe file 
+
 
 
 
 details:
 run and compile
-click test.cpp then automatic create text.ext and then click text.exe after then compile it
+click test.cpp then automatic create text.exe and then click text.exe automatic execute and compile it
 
 
 installation command : 
