@@ -1,4 +1,5 @@
-## Far Manager IDE essential commands
+## C++ for compeitive programming 
+### Far Manager IDE essential commands 
   - F12 : page swap; you can go editor option or compiler option at the same time
   - Cltr+q : chage to view code
   - alt+f12 : File directory history check
