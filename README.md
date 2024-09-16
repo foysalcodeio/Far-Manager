@@ -7,6 +7,7 @@
   - alt+f8 : history
   - shift+ins : paste
   - f7 : Make Folder
+  - test.exe < in : user input and compile
 
 
 
