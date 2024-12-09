@@ -13,6 +13,7 @@
   - left menu : left panel editing
   - right menu : right panel editing
   - gen.exe 1 > in3 : execute and output in in3
+  - ctr+u : panel swap
 
 
 
