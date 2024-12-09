@@ -10,6 +10,8 @@
   - test.exe < in : user input and compile
   - alt+f2 : directory drive change
   - shift+f9 : save directory
+  - left menu : left panel editing
+  - right menu : right panel editing
 
 
 
