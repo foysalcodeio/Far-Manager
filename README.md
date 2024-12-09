@@ -12,6 +12,7 @@
   - shift+f9 : save directory
   - left menu : left panel editing
   - right menu : right panel editing
+  - gen.exe 1 > in3 : execute and output in in3
 
 
 
