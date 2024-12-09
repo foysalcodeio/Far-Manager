@@ -8,6 +8,8 @@
   - shift+ins : paste
   - f7 : Make Folder
   - test.exe < in : user input and compile
+  - alt+f2 : directory drive change
+  - shift+f9 : save directory
 
 
 
